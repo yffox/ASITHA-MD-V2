@@ -1,6 +1,6 @@
 {
   "name": "ASITHA-MD",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
@@ -51,8 +51,10 @@
     "@sl-code-lords/esana-news" : "latest",
     "nayan-media-downloader": "latest",
     "getscreenshot.js": "latest",
+    "@google/generative-ai": "latest",
     "@mrnima/tiktok-downloader": "latest",
     "@mrnima/facebook-downloader": "latest",
-    "@dark-yasiya/imgbb.js": "latest"
+    "@dark-yasiya/imgbb.js": "latest",
+    "adm-zip": "0.5.16"
   }
 }
