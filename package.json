@@ -56,6 +56,7 @@
     "@mrnima/tiktok-downloader": "latest",
     "@mrnima/facebook-downloader": "latest",
     "@dark-yasiya/imgbb.js": "latest",
-    "adm-zip": "0.5.16"
+    "adm-zip": "0.5.16",
+    "@dark-yasiya/news-scrap" : "latest"
   }
 }
