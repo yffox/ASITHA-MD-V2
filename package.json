@@ -56,6 +56,7 @@
     "@mrnima/facebook-downloader": "latest",
     "@dark-yasiya/imgbb.js": "latest",
     "adm-zip": "0.5.16",
-    "@dark-yasiya/news-scrap" : "latest"
+    "@dark-yasiya/news-scrap" : "latest",
+    "sharp":"^0.32.6"
   }
 }
